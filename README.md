@@ -2,7 +2,7 @@
 
 Understand your PDF in seconds.
 
-PDF Simplifier turns dense college notices and academic PDFs into a plain-language summary, useful dates, and a checklist of what to do next. It is built for students who need the important information without decoding pages of formal language.
+PDF Simplifier is an AI-powered tool that turns complicated PDFs into simple explanations and actionable key points. It turns dense college notices and academic PDFs into a plain-language summary, useful dates, and a checklist of what to do next. It is built for students who need the important information without decoding pages of formal language.
 
 ## Why I built it
 
